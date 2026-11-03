@@ -25,15 +25,15 @@ I'm a BS Computer Science student at Superior University Lahore. I build machine
 
 ## Featured Projects
 
-<!-- To add a code link to a row, put this in the Links column: [Code](https://github.com/gulshairdev/YOUR-REPO-NAME) -->
+<div align="center">
+  <a href="https://github.com/gulshairdev/customer-churn-prediction-system"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn.svg" alt="Customer Churn Prediction project card" /></a>
+  <a href="https://github.com/gulshairdev/house-price-predictor-mlr"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price.svg" alt="House Price Predictor project card" /></a>
+  <br/>
+  <a href="https://github.com/gulshairdev/Customer-Spending-Classifier"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier.svg" alt="Customer Spending Classifier project card" /></a>
+  <a href="https://github.com/gulshairdev/automate-your-launch"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg" alt="Automate Your Launch project card" /></a>
+</div>
 
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **Customer Churn Prediction** | Predicts which telecom customers are likely to leave and explains why. AUC-ROC 0.84. | XGBoost, LightGBM, SHAP, Streamlit | [Live demo](https://telco-retention-ai.streamlit.app) |
-| **CPU Anomaly Detection** | Finds unusual CPU behavior in a dataset of 18,050 rows. | Isolation Forest, statistical methods | - |
-| **IntelliDesk FAQ Chatbot** | Answers common support questions through a simple chat interface. | Python, Streamlit, OpenRouter API | - |
-| **Marketing Mix Modeling** | Shows how TV, radio and newspaper ad spend affect sales. R² 0.95. | Polynomial regression, Streamlit, Docker | - |
-| **House Price Predictor** | Predicts house prices from the King County housing dataset. | Multiple linear regression, Streamlit | [Live demo](https://house-price-mlr-kingcounty.streamlit.app) |
+**Live demos:** [Customer Churn Prediction](https://telco-retention-ai.streamlit.app) · [House Price Predictor](https://house-price-mlr-kingcounty.streamlit.app)
 
 More work is on my [repositories page](https://github.com/gulshairdev?tab=repositories).
 
