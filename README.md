@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=gulshairdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire  =10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=gulshairdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
   <img width="49%" src="https://github-readme-stats-omega-cyan-23.vercel.app/api?username=gulshairdev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://github-readme-stats-omega-cyan-23.vercel.app/api/top-langs/?username=gulshairdev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
@@ -25,10 +25,9 @@
 
 <br/>
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gulshair/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0A101F" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y4RkFGQyI+PHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRt-.NSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS41OS41Mi0yLjMyIDEuMjl2LTEuMTFoLTIuNzl2OC4zOGgyLjc5di00LjkzYz0tLjg0LjY4LTEuNTIgMS41Mi0xLjUycy45OC42OC45OCAxLjUydjQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OEM4LjU2IDUuOTUgNy44MSAzLjIgNi44OCAzLjJzLTEuNjggMS43NS0xLjY4IDIuNjhjMCAuOTMuNzUgMS42OCAxLjY4IDEuNjhtMS4zOSA5Ljk0VjEwLjFoLTIuOHY4LjR6Ii8+PC9zdmc+&labelColor=0A101F" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/gul_shair_khaqan/" target="_blank" rel="noopener noreferrer">
@@ -39,7 +38,7 @@
     <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:gulshairkhaqan@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:gulshairkhaqan@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
