@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-label="House Price Predictor project card" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace">
+  <title>House Price Predictor</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="400" height="160" rx="10"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="399" height="159" rx="10" fill="#0A101F" stroke="#22D3EE" stroke-opacity="0.25"/>
+  <g clip-path="url(#card)"><rect width="4" height="160" fill="url(#bar)"/></g>
+  <circle cx="22" cy="22" r="3" fill="#22D3EE"/>
+  <text x="32" y="26" font-size="10" fill="#64748B">gulshairdev/house-price-predictor-mlr</text>
+  <text x="22" y="52" font-size="16" font-weight="700" fill="#F8FAFC">House Price Predictor</text>
+  <text x="22" y="74" font-size="12" fill="#94A3B8">Predicts house prices using the King County</text>
+  <text x="22" y="90" font-size="12" fill="#94A3B8">housing dataset.</text>
+  <rect x="22" y="102" width="180" height="20" rx="10" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.35"/><text x="112.0" y="116" text-anchor="middle" font-size="10.5" fill="#C4B5FD">Multiple Linear Regression</text>
+  <rect x="208" y="102" width="73" height="20" rx="10" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.35"/><text x="244.5" y="116" text-anchor="middle" font-size="10.5" fill="#C4B5FD">Streamlit</text>
+  <line x1="22" y1="132" x2="378" y2="132" stroke="#22D3EE" stroke-opacity="0.15"/>
+  <text x="22" y="150" font-size="10.5" fill="#A78BFA">Machine Learning</text>
+  
+</svg>
