@@ -26,9 +26,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gulshair/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y4RkFGQyI+PHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRt-.NSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS41OS41Mi0yLjMyIDEuMjl2LTEuMTFoLTIuNzl2OC4zOGgyLjc5di00LjkzYz0tLjg0LjY4LTEuNTIgMS41Mi0xLjUycy45OC42OC45OCAxLjUydjQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OEM4LjU2IDUuOTUgNy44MSAzLjIgNi44OCAzLjJzLTEuNjggMS43NS0xLjY4IDIuNjhjMCAuOTMuNzUgMS42OCAxLjY4IDEuNjhtMS4zOSA5Ljk0VjEwLjFoLTIuOHY4LjR6Ii8+PC9zdmc+&labelColor=0A101F" alt="LinkedIn" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshair/)	
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/gul_shair_khaqan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
