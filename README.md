@@ -33,9 +33,10 @@ I'm a BS Computer Science student at Superior University Lahore. I build machine
   <a href="https://github.com/gulshairdev/automate-your-launch"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg" alt="Automate Your Launch project card" /></a>
 </div>
 
-**Live demos:** [Customer Churn Prediction](https://telco-retention-ai.streamlit.app) · [House Price Predictor](https://house-price-mlr-kingcounty.streamlit.app)
-
-More work is on my [repositories page](https://github.com/gulshairdev?tab=repositories).
+<p align="center">
+  <a href="https://telco-retention-ai.streamlit.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-Customer%20Churn-0A101F?style=for-the-badge&logo=streamlit&logoColor=10B981&labelColor=0A101F" alt="Live demo: Customer Churn Prediction" /></a>
+  <a href="https://house-price-mlr-kingcounty.streamlit.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-House%20Price-0A101F?style=for-the-badge&logo=streamlit&logoColor=10B981&labelColor=0A101F" alt="Live demo: House Price Predictor" /></a>
+</p>
 
 ## GitHub Activity
 
