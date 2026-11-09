@@ -1,64 +1,84 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg">
-  <img alt="Gul Shair Khaqan - ML and Automation profile card" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg" alt="Gul Shair — Machine Learning and AI Automation">
 </picture>
 
-## About Me
+## About
 
-I'm a BS Computer Science student at Superior University Lahore. I build machine learning models and automation workflows, then deploy them as working apps that anyone can open and try.
+I'm **Gul Shair**, a BS Computer Science student at **Superior University, Lahore**, focused on machine learning and AI automation. I build projects that turn data into predictions and connect useful tools through automation workflows.
 
-- **Studying:** BS Computer Science, Superior University Lahore
-- **Focus:** Machine learning and AI automation
-- **Approach:** Take every project all the way from data, to model, to a live app
-- **Based in:** Lahore, Pakistan
+My work includes customer churn prediction, transaction classification, and house price estimation. I enjoy working through the full process: preparing data, comparing models, explaining results, and building simple interfaces.
 
-## Tech Stack
-
-| Area | Tools |
-|---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE) ![C++](https://img.shields.io/badge/C%2B%2B-0A101F?style=flat-square&logo=cplusplus&logoColor=22D3EE) ![SQL](https://img.shields.io/badge/SQL-0A101F?style=flat-square&logoColor=22D3EE) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0A101F?style=flat-square&logo=html5&logoColor=22D3EE) |
-| Machine Learning | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0A101F?style=flat-square&logo=scikitlearn&logoColor=A78BFA) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A101F?style=flat-square&logo=tensorflow&logoColor=A78BFA) ![XGBoost](https://img.shields.io/badge/XGBoost-0A101F?style=flat-square&logoColor=A78BFA) ![LightGBM](https://img.shields.io/badge/LightGBM-0A101F?style=flat-square&logoColor=A78BFA) ![SHAP](https://img.shields.io/badge/SHAP-0A101F?style=flat-square&logoColor=A78BFA) |
-| Apps and Deployment | ![Streamlit](https://img.shields.io/badge/Streamlit-0A101F?style=flat-square&logo=streamlit&logoColor=10B981) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0A101F?style=flat-square&logo=huggingface&logoColor=10B981) ![Vercel](https://img.shields.io/badge/Vercel-0A101F?style=flat-square&logo=vercel&logoColor=10B981) |
-| Automation | ![n8n](https://img.shields.io/badge/n8n-0A101F?style=flat-square&logo=n8n&logoColor=22D3EE) ![Make](https://img.shields.io/badge/Make-0A101F?style=flat-square&logo=make&logoColor=22D3EE) |
-| Developer Tools | ![Git](https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=A78BFA) ![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=flat-square&logo=github&logoColor=A78BFA) ![VS Code](https://img.shields.io/badge/VS%20Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=A78BFA) ![Proteus](https://img.shields.io/badge/Proteus-0A101F?style=flat-square&logoColor=A78BFA) |
+**Based in Lahore, Pakistan.**
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/gulshairdev/customer-churn-prediction-system"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn.svg" alt="Customer Churn Prediction project card" /></a>
-  <a href="https://github.com/gulshairdev/house-price-predictor-mlr"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price.svg" alt="House Price Predictor project card" /></a>
-  <br/>
-  <a href="https://github.com/gulshairdev/Customer-Spending-Classifier"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier.svg" alt="Customer Spending Classifier project card" /></a>
-  <a href="https://github.com/gulshairdev/automate-your-launch"><img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg" alt="Automate Your Launch project card" /></a>
-</div>
+### [Customer Churn Prediction & Retention Scoring](https://github.com/gulshairdev/customer-churn-prediction-system)
 
-<p align="center">
-  <a href="https://telco-retention-ai.streamlit.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-Customer%20Churn-0A101F?style=for-the-badge&logo=streamlit&logoColor=10B981&labelColor=0A101F" alt="Live demo: Customer Churn Prediction" /></a>
-  <a href="https://house-price-mlr-kingcounty.streamlit.app"><img src="https://img.shields.io/badge/LIVE%20DEMO-House%20Price-0A101F?style=for-the-badge&logo=streamlit&logoColor=10B981&labelColor=0A101F" alt="Live demo: House Price Predictor" /></a>
-</p>
+Predicts telecom customer churn, explains predictions with SHAP, and groups customers by risk to support retention decisions.
 
-## GitHub Activity
+**Tools:** Python, scikit-learn, XGBoost, LightGBM, SHAP, Streamlit  
+[Source code](https://github.com/gulshairdev/customer-churn-prediction-system) · [Try the app](https://telco-retention-ai.streamlit.app)
 
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=gulshairdev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub contribution streak" />
-  <br/>
-  <img width="60%" src="https://github-readme-stats-omega-cyan-23.vercel.app/api/top-langs/?username=gulshairdev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Most used languages" />
-</div>
+### [House Price Predictor](https://github.com/gulshairdev/house-price-predictor-mlr)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg" />
-    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg" />
-  </picture>
-</div>
+Estimates house prices using King County housing data and multiple linear regression, with data preprocessing and model evaluation.
+
+**Tools:** Python, pandas, scikit-learn, Streamlit  
+[Source code](https://github.com/gulshairdev/house-price-predictor-mlr) · [Try the app](https://house-price-mlr-kingcounty.streamlit.app)
+
+### [Customer Spending Classifier](https://github.com/gulshairdev/Customer-Spending-Classifier)
+
+Classifies bank and card transaction descriptions into spending categories using TF-IDF and classification models. Includes a Streamlit interface for individual and batch predictions.
+
+**Tools:** Python, scikit-learn, TF-IDF, Streamlit  
+[Source code](https://github.com/gulshairdev/Customer-Spending-Classifier)
+
+### [Automate Your Launch](https://github.com/gulshairdev/automate-your-launch)
+
+A web project for AI automation services, with contact forms and chat components.
+
+**Tools:** TypeScript, React, Tailwind CSS  
+[Source code](https://github.com/gulshairdev/automate-your-launch)
+
+## Tools I Use
+
+| Area | Tools |
+| --- | --- |
+| Languages | Python, C++, SQL, HTML/CSS, TypeScript |
+| Machine learning | scikit-learn, TensorFlow, XGBoost, LightGBM, SHAP |
+| Data and apps | pandas, NumPy, Streamlit |
+| Automation | n8n, Make |
+| Deployment | Streamlit Community Cloud, Hugging Face, Vercel |
+| Development | Git, GitHub, VS Code |
 
 ## Let's Connect
 
+For project discussions and collaboration:
+
+[LinkedIn](https://www.linkedin.com/in/gulshair/) · [Email](mailto:gulshairkhaqan@gmail.com) · [Instagram](https://www.instagram.com/gul_shair_khaqan/)
+
+## GitHub Activity
+
+[View my contributions and repositories on GitHub](https://github.com/gulshairdev?tab=overview).
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/gulshair/"><img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0A101F" alt="LinkedIn" /></a>
-  <a href="mailto:gulshairkhaqan@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
-  <a href="https://www.instagram.com/gul_shair_khaqan/"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/share/19cBvZvLkP/"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" /></a>
+  <a href="https://github.com/gulshairdev?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gulshairdev&amp;theme=dark&amp;hide_border=true&amp;card_width=495&amp;background=0A101F&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;disable_animations=true">
+      <img width="495" src="https://streak-stats.demolab.com/?user=gulshairdev&amp;theme=default&amp;hide_border=true&amp;card_width=495&amp;ring=7C3AED&amp;fire=047857&amp;currStreakLabel=0E7490&amp;disable_animations=true" alt="GitHub contribution streak for gulshairdev; use the contribution link above if the card is unavailable.">
+    </picture>
+  </a>
 </p>
+
+<details>
+  <summary>Contribution graph animation</summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg" alt="Snake animation of my GitHub contribution graph">
+  </picture>
+
+</details>
