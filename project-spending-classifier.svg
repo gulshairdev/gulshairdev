@@ -1,22 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-label="Customer Spending Classifier project card" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace">
-  <title>Customer Spending Classifier</title>
-  <defs>
-    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#A78BFA"/>
-    </linearGradient>
-    <clipPath id="card"><rect width="400" height="160" rx="10"/></clipPath>
-  </defs>
-  <rect x="0.5" y="0.5" width="399" height="159" rx="10" fill="#0A101F" stroke="#22D3EE" stroke-opacity="0.25"/>
-  <g clip-path="url(#card)"><rect width="4" height="160" fill="url(#bar)"/></g>
-  <circle cx="22" cy="22" r="3" fill="#22D3EE"/>
-  <text x="32" y="26" font-size="10" fill="#64748B">gulshairdev/Customer-Spending-Classifier</text>
-  <text x="22" y="52" font-size="16" font-weight="700" fill="#F8FAFC">Customer Spending Classifier</text>
-  <text x="22" y="74" font-size="12" fill="#94A3B8">Classifies customers based on their spending.</text>
-  <rect x="22" y="102" width="54" height="20" rx="10" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.35"/><text x="49.0" y="116" text-anchor="middle" font-size="10.5" fill="#C4B5FD">Python</text>
-  <rect x="82" y="102" width="104" height="20" rx="10" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.35"/><text x="134.0" y="116" text-anchor="middle" font-size="10.5" fill="#C4B5FD">Classification</text>
-  <rect x="192" y="102" width="73" height="20" rx="10" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.35"/><text x="228.5" y="116" text-anchor="middle" font-size="10.5" fill="#C4B5FD">Streamlit</text>
-  <line x1="22" y1="132" x2="378" y2="132" stroke="#22D3EE" stroke-opacity="0.15"/>
-  <text x="22" y="150" font-size="10.5" fill="#A78BFA">Machine Learning</text>
-  <text x="378" y="150" text-anchor="end" font-size="10.5" font-weight="700" fill="#10B981">Accuracy 81.4%</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="258" viewBox="0 0 480 258" role="img" aria-labelledby="title desc" font-family="'Segoe UI',Arial,sans-serif">
+  <title id="title">Spending Category Classifier</title>
+  <desc id="desc">Turn transaction descriptions into clear spending categories with TF-IDF. Select this card to view the source code.</desc>
+  <defs><linearGradient id="top" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><clipPath id="card"><rect width="480" height="258" rx="14"/></clipPath></defs>
+  <g clip-path="url(#card)">
+    <rect width="480" height="258" fill="#0A101F"/>
+    <rect width="480" height="4" fill="url(#top)"/>
+    <path d="M0 220H480V258H0Z" fill="#0F172A"/>
+    <circle cx="443" cy="44" r="54" fill="#60A5FA" fill-opacity="0.06"/>
+    <text x="24" y="34" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#60A5FA">TEXT CLASSIFICATION</text>
+    <g transform="translate(407 22) scale(.75)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M5 8H43V40H5ZM5 18H43M14 27H23M14 33H34"/></g>
+    <text x="24" y="86" font-size="29" font-weight="700" fill="#F8FAFC">Spending Category</text>
+    <text x="24" y="119" font-size="29" font-weight="700" fill="#F8FAFC">Classifier</text>
+    <text x="24" y="150" font-size="16" fill="#A8B6CA">Turn transaction descriptions into</text>
+    <text x="24" y="172" font-size="16" fill="#A8B6CA">clear spending categories with TF-IDF.</text>
+    <rect x="24" y="187" width="65.6" height="24" rx="6" fill="#60A5FA" fill-opacity="0.10"/><text x="56.8" y="203.5" text-anchor="middle" font-size="12.5" fill="#60A5FA">TF-IDF</text><rect x="97.6" y="187" width="65.6" height="24" rx="6" fill="#60A5FA" fill-opacity="0.10"/><text x="130.39999999999998" y="203.5" text-anchor="middle" font-size="12.5" fill="#60A5FA">Python</text><rect x="171.2" y="187" width="88.39999999999999" height="24" rx="6" fill="#60A5FA" fill-opacity="0.10"/><text x="215.39999999999998" y="203.5" text-anchor="middle" font-size="12.5" fill="#60A5FA">Streamlit</text>
+    <line x1="24" y1="220" x2="456" y2="220" stroke="#28354B"/>
+    <text x="24" y="244" font-size="13" font-weight="600" fill="#A8B6CA">VIEW SOURCE CODE</text>
+    <text x="427" y="244" font-size="12" fill="#A8B6CA">03</text>
+    <path d="M449 241L458 232M450 232H458V240" fill="none" stroke="#60A5FA" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <rect x=".5" y=".5" width="479" height="257" rx="13.5" fill="none" stroke="#28354B"/>
 </svg>

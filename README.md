@@ -1,84 +1,119 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg" alt="Gul Shair — Machine Learning and AI Automation">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=animated-20261109">
+    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=animated-20261109" alt="Gul Shair Khaqan — animated Python, TensorFlow and coding profile card with my GitHub photo">
+  </picture>
 
-## About
+<p align="center">
+  <a href="https://www.linkedin.com/in/gulshair/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109">
+    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109" alt="LinkedIn">
+  </picture></a>
+  <a href="mailto:gulshairkhaqan@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109">
+    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109" alt="Email">
+  </picture></a>
+  <a href="https://www.instagram.com/gul_shair_khaqan/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109">
+    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109" alt="Instagram">
+  </picture></a>
+  <a href="https://www.facebook.com/share/19cBvZvLkP/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109">
+    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109" alt="Facebook">
+  </picture></a>
+  <a href="https://github.com/gulshairdev?tab=repositories"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-light.svg?v=animated-20261109">
+    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-light.svg?v=animated-20261109" alt="GitHub">
+  </picture></a>
+</p>
 
-I'm **Gul Shair**, a BS Computer Science student at **Superior University, Lahore**, focused on machine learning and AI automation. I build projects that turn data into predictions and connect useful tools through automation workflows.
+## About Me
 
-My work includes customer churn prediction, transaction classification, and house price estimation. I enjoy working through the full process: preparing data, comparing models, explaining results, and building simple interfaces.
+I'm **Gul Shair**, a BS Computer Science student at **Superior University, Lahore**, focused on **machine learning and AI automation**. I build prediction apps and workflows that turn ideas into useful tools.
 
-**Based in Lahore, Pakistan.**
+- **Machine learning:** data preparation, model comparison, explainability, and Streamlit apps.
+- **Automation:** connecting tools and simplifying repetitive work with n8n and Make.
+- **Based in:** Lahore, Pakistan.
 
 ## Featured Projects
 
-### [Customer Churn Prediction & Retention Scoring](https://github.com/gulshairdev/customer-churn-prediction-system)
+Explore the source code through each card, or try the two live demos below.
 
-Predicts telecom customer churn, explains predictions with SHAP, and groups customers by risk to support retention decisions.
+<p align="center">
+  <a href="https://github.com/gulshairdev/customer-churn-prediction-system"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109">
+    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109" alt="Customer Churn Prediction: Predict churn. Explain the drivers. Support smarter retention decisions. View source code.">
+  </picture></a>
+  <a href="https://github.com/gulshairdev/house-price-predictor-mlr"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109">
+    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109" alt="House Price Predictor: King County housing data meets multiple linear regression. View source code.">
+  </picture></a>
+  <a href="https://github.com/gulshairdev/Customer-Spending-Classifier"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109">
+    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109" alt="Spending Category Classifier: Turn transaction descriptions into clear spending categories with TF-IDF. View source code.">
+  </picture></a>
+  <a href="https://github.com/gulshairdev/automate-your-launch"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109">
+    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109" alt="Automate Your Launch: An AI automation services website with contact forms and chat tools. View source code.">
+  </picture></a>
+</p>
 
-**Tools:** Python, scikit-learn, XGBoost, LightGBM, SHAP, Streamlit  
-[Source code](https://github.com/gulshairdev/customer-churn-prediction-system) · [Try the app](https://telco-retention-ai.streamlit.app)
+<p align="center">
+  <a href="https://telco-retention-ai.streamlit.app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-churn-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-churn-light.svg?v=animated-20261109">
+    <img width="228" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-churn-light.svg?v=animated-20261109" alt="Try the Customer Churn app">
+  </picture></a>
+  <a href="https://house-price-mlr-kingcounty.streamlit.app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-house-price-dark.svg?v=animated-20261109">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-house-price-light.svg?v=animated-20261109">
+    <img width="228" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/demo-house-price-light.svg?v=animated-20261109" alt="Try the House Price app">
+  </picture></a>
+</p>
 
-### [House Price Predictor](https://github.com/gulshairdev/house-price-predictor-mlr)
-
-Estimates house prices using King County housing data and multiple linear regression, with data preprocessing and model evaluation.
-
-**Tools:** Python, pandas, scikit-learn, Streamlit  
-[Source code](https://github.com/gulshairdev/house-price-predictor-mlr) · [Try the app](https://house-price-mlr-kingcounty.streamlit.app)
-
-### [Customer Spending Classifier](https://github.com/gulshairdev/Customer-Spending-Classifier)
-
-Classifies bank and card transaction descriptions into spending categories using TF-IDF and classification models. Includes a Streamlit interface for individual and batch predictions.
-
-**Tools:** Python, scikit-learn, TF-IDF, Streamlit  
-[Source code](https://github.com/gulshairdev/Customer-Spending-Classifier)
-
-### [Automate Your Launch](https://github.com/gulshairdev/automate-your-launch)
-
-A web project for AI automation services, with contact forms and chat components.
-
-**Tools:** TypeScript, React, Tailwind CSS  
-[Source code](https://github.com/gulshairdev/automate-your-launch)
-
-## Tools I Use
+## Tech Stack
 
 | Area | Tools |
 | --- | --- |
 | Languages | Python, C++, SQL, HTML/CSS, TypeScript |
-| Machine learning | scikit-learn, TensorFlow, XGBoost, LightGBM, SHAP |
-| Data and apps | pandas, NumPy, Streamlit |
+| Machine Learning | scikit-learn, TensorFlow, XGBoost, LightGBM, SHAP |
+| Data & Apps | pandas, NumPy, Streamlit |
 | Automation | n8n, Make |
 | Deployment | Streamlit Community Cloud, Hugging Face, Vercel |
 | Development | Git, GitHub, VS Code |
 
-## Let's Connect
-
-For project discussions and collaboration:
-
-[LinkedIn](https://www.linkedin.com/in/gulshair/) · [Email](mailto:gulshairkhaqan@gmail.com) · [Instagram](https://www.instagram.com/gul_shair_khaqan/)
-
 ## GitHub Activity
-
-[View my contributions and repositories on GitHub](https://github.com/gulshairdev?tab=overview).
 
 <p align="center">
   <a href="https://github.com/gulshairdev?tab=overview">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gulshairdev&amp;theme=dark&amp;hide_border=true&amp;card_width=495&amp;background=0A101F&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;disable_animations=true">
-      <img width="495" src="https://streak-stats.demolab.com/?user=gulshairdev&amp;theme=default&amp;hide_border=true&amp;card_width=495&amp;ring=7C3AED&amp;fire=047857&amp;currStreakLabel=0E7490&amp;disable_animations=true" alt="GitHub contribution streak for gulshairdev; use the contribution link above if the card is unavailable.">
+      <img width="495" src="https://streak-stats.demolab.com/?user=gulshairdev&amp;theme=default&amp;hide_border=true&amp;card_width=495&amp;ring=7C3AED&amp;fire=047857&amp;currStreakLabel=0E7490&amp;disable_animations=true" alt="GitHub contribution streak for gulshairdev">
     </picture>
   </a>
 </p>
 
-<details>
-  <summary>Contribution graph animation</summary>
+### Watch the Snake Eat My Contributions
 
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg" alt="Snake animation of my GitHub contribution graph">
+    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/output/github-snake.svg" alt="Animated snake moving through my GitHub contribution graph">
   </picture>
+</p>
 
-</details>
+[View my GitHub contributions](https://github.com/gulshairdev?tab=overview) · [Browse all repositories](https://github.com/gulshairdev?tab=repositories)
+
+## Let's Connect
+
+For project discussions and collaboration: **[LinkedIn](https://www.linkedin.com/in/gulshair/)** or **[gulshairkhaqan@gmail.com](mailto:gulshairkhaqan@gmail.com)**.

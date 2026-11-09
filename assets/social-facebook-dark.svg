@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-label="Facebook">
+  <title>Facebook</title><rect x=".5" y=".5" width="143" height="43" rx="9" fill="#0F172A" stroke="#28354B"/>
+  <g transform="translate(14 11) scale(.9)" fill="#1877F2" color="#1877F2"><path d="M14 24V13H18L19 9H14V6.5C14 5.3 14.4 4.5 16.5 4.5H19V1C18.2 .7 16.7 .5 15.2 .5C11.4 .5 9 2.6 9 6.3V9H5V13H9V24Z"/></g>
+  <text x="47" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#F8FAFC">Facebook</text>
+</svg>
