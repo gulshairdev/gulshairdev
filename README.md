@@ -25,11 +25,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109">
     <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109" alt="Facebook">
   </picture></a>
-  <a href="https://github.com/gulshairdev?tab=repositories"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-light.svg?v=animated-20261109">
-    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-github-light.svg?v=animated-20261109" alt="GitHub">
-  </picture></a>
 </p>
 
 ## About Me
