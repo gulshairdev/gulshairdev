@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg?v=fast-four-stage-20261110">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=fast-four-stage-20261110">
-    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=fast-four-stage-20261110" alt="Gul Shair Khaqan — Python, coding, TensorFlow and portrait animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg?v=dotted-portrait-20261110">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=dotted-portrait-20261110">
+    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=dotted-portrait-20261110" alt="Gul Shair Khaqan — Python, coding, TensorFlow and dotted portrait animation">
   </picture>
 
 <p align="center">
