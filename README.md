@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=animated-20261109">
-    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=animated-20261109" alt="Gul Shair Khaqan — animated Python, TensorFlow and coding profile card with my GitHub photo">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/dark.svg?v=fast-four-stage-20261110">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=fast-four-stage-20261110">
+    <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=fast-four-stage-20261110" alt="Gul Shair Khaqan — Python, coding, TensorFlow and portrait animation">
   </picture>
 
 <p align="center">
@@ -112,3 +112,4 @@ Explore the source code through each card, or try the two live demos below.
 ## Let's Connect
 
 For project discussions and collaboration: **[LinkedIn](https://www.linkedin.com/in/gulshair/)** or **[gulshairkhaqan@gmail.com](mailto:gulshairkhaqan@gmail.com)**.
+
