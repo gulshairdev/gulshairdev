@@ -17,26 +17,13 @@ I'm **Gul Shair**, a BS Computer Science student at **Superior University, Lahor
 Explore the source code through each card, or try the two live demos below.
 
 <p align="center">
-  <a href="https://github.com/gulshairdev/customer-churn-prediction-system"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109">
-    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109" alt="Customer Churn Prediction: Predict churn. Explain the drivers. Support smarter retention decisions. View source code.">
-  </picture></a>
-  <a href="https://github.com/gulshairdev/house-price-predictor-mlr"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109">
-    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109" alt="House Price Predictor: King County housing data meets multiple linear regression. View source code.">
-  </picture></a>
-  <a href="https://github.com/gulshairdev/Customer-Spending-Classifier"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109">
-    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109" alt="Spending Category Classifier: Turn transaction descriptions into clear spending categories with TF-IDF. View source code.">
-  </picture></a>
-  <a href="https://github.com/gulshairdev/automate-your-launch"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109">
-    <img width="400" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109" alt="Automate Your Launch: An AI automation services website with contact forms and chat tools. View source code.">
-  </picture></a>
+  <a href="https://github.com/gulshairdev/customer-churn-prediction-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109"><img width="48%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-churn-light.svg?v=animated-20261109" alt="Customer Churn Prediction: Predict churn. Explain the drivers. Support smarter retention decisions. View source code."></picture></a>
+  <a href="https://github.com/gulshairdev/house-price-predictor-mlr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109"><img width="48%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-house-price-light.svg?v=animated-20261109" alt="House Price Predictor: King County housing data meets multiple linear regression. View source code."></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gulshairdev/Customer-Spending-Classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109"><img width="48%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-spending-classifier-light.svg?v=animated-20261109" alt="Spending Category Classifier: Turn transaction descriptions into clear spending categories with TF-IDF. View source code."></picture></a>
+  <a href="https://github.com/gulshairdev/automate-your-launch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109"><img width="48%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/project-automate-launch-light.svg?v=animated-20261109" alt="Automate Your Launch: An AI automation services website with contact forms and chat tools. View source code."></picture></a>
 </p>
 
 <p align="center">
