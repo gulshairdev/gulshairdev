@@ -4,29 +4,6 @@
     <img width="100%" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/light.svg?v=three-stage-20261110" alt="Gul Shair Khaqan — animated Python, coding and TensorFlow profile">
   </picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gulshair/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109">
-    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109" alt="LinkedIn">
-  </picture></a>
-  <a href="mailto:gulshairkhaqan@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109">
-    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109" alt="Email">
-  </picture></a>
-  <a href="https://www.instagram.com/gul_shair_khaqan/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109">
-    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109" alt="Instagram">
-  </picture></a>
-  <a href="https://www.facebook.com/share/19cBvZvLkP/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-dark.svg?v=animated-20261109">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109">
-    <img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109" alt="Facebook">
-  </picture></a>
-</p>
-
 ## About Me
 
 I'm **Gul Shair**, a BS Computer Science student at **Superior University, Lahore**, focused on **machine learning and AI automation**. I build prediction apps and workflows that turn ideas into useful tools.
@@ -111,5 +88,15 @@ Explore the source code through each card, or try the two live demos below.
 
 ## Let's Connect
 
-For project discussions and collaboration: **[LinkedIn](https://www.linkedin.com/in/gulshair/)** or **[gulshairkhaqan@gmail.com](mailto:gulshairkhaqan@gmail.com)**.
+For project discussions and collaboration:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gulshair/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-dark.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109"><img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-linkedin-light.svg?v=animated-20261109" alt="LinkedIn"></picture></a>
+  <a href="mailto:gulshairkhaqan@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-dark.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109"><img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-email-light.svg?v=animated-20261109" alt="Email"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/gul_shair_khaqan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-dark.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109"><img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-instagram-light.svg?v=animated-20261109" alt="Instagram"></picture></a>
+  <a href="https://www.facebook.com/share/19cBvZvLkP/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-dark.svg?v=animated-20261109"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109"><img width="136" src="https://raw.githubusercontent.com/gulshairdev/gulshairdev/main/assets/social-facebook-light.svg?v=animated-20261109" alt="Facebook"></picture></a>
+</p>
 
