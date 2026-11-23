@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="32" viewBox="0 0 140 32" role="img" aria-label="Email">
   <title>Email</title>
   <rect x=".5" y=".5" width="139" height="31" rx="1" fill="#F1F5F9" stroke="#CBD5E1"/>
-  <g transform="translate(9 7) scale(.72)" fill="#EA4335" color="#EA4335">assets/social-email-light.svg</g>
+  <g transform="translate(9 7) scale(.72)" fill="#EA4335" color="#EA4335"><path d="M2 4H22V20H2Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M2 5L12 13L22 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></g>
   <text x="38" y="20.5" font-family="'Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#0F172A">EMAIL</text>
 </svg>
